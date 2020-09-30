@@ -8,28 +8,26 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "/Users/caku/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\andr687w\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/caku/Projects/Landlyst/Landlyst/Landlyst.csproj",
+      "projectUniqueName": "C:\\Users\\andr687w\\Documents\\GitHub\\Landlyst\\Landlyst.csproj",
       "projectName": "Landlyst",
-      "projectPath": "/Users/caku/Projects/Landlyst/Landlyst/Landlyst.csproj",
-      "packagesPath": "/Users/caku/.nuget/packages/",
-      "outputPath": "/Users/caku/Projects/Landlyst/Landlyst/obj/",
+      "projectPath": "C:\\Users\\andr687w\\Documents\\GitHub\\Landlyst\\Landlyst.csproj",
+      "packagesPath": "C:\\Users\\andr687w\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andr687w\\Documents\\GitHub\\Landlyst\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/caku/.config/NuGet/NuGet.Config"
+        "C:\\Users\\andr687w\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
