@@ -130,6 +130,6 @@ input {
     border-radius: 4px;
 }
 
-address text{
+address {
     border:dotted;
 }
