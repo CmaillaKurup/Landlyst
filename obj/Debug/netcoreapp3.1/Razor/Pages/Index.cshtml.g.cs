@@ -1,8 +1,12 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 #pragma checksum "/Users/caku/Projects/Landlyst/Landlyst/Pages/Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "3ac5584a566f58de83c8883981ff8341df72d36c"
 =======
 #pragma checksum "C:\Users\andr687w\Documents\GitHub\Landlyst\Pages\Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "2aafc44cff897ecbc12444b4a0afb8121113c6e8"
+>>>>>>> Stashed changes
+=======
+#pragma checksum "/Users/caku/Projects/Landlyst/Landlyst/Pages/Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "f99841342bbfe7a67b75fd1d2644bb0234a94508"
 >>>>>>> Stashed changes
 =======
 #pragma checksum "/Users/caku/Projects/Landlyst/Landlyst/Pages/Index.cshtml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "f99841342bbfe7a67b75fd1d2644bb0234a94508"
@@ -29,7 +33,11 @@ using Landlyst;
 #nullable disable
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3ac5584a566f58de83c8883981ff8341df72d36c", @"/Pages/Index.cshtml")]
+=======
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f99841342bbfe7a67b75fd1d2644bb0234a94508", @"/Pages/Index.cshtml")]
+>>>>>>> Stashed changes
 =======
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f99841342bbfe7a67b75fd1d2644bb0234a94508", @"/Pages/Index.cshtml")]
 >>>>>>> Stashed changes
@@ -53,11 +61,14 @@ using Landlyst;
 #nullable disable
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             WriteLiteral("\n<div class=\"text-center\">\n    <h1 class=\"display-4\">hi</h1>\n    <p>Learn about <a href=\"https://docs.microsoft.com/aspnet/core\">building Web apps with ASP.NET Core</a>.</p>\n</div>\n");
 =======
             WriteLiteral("\r\n<div class=\"text-center\">\r\n    <h1 class=\"display-4\">hi</h1>\r\n    <p>Learn about <a href=\"https://docs.microsoft.com/aspnet/core\">building Web apps with ASP.NET Core</a>.</p>\r\n</div>\r\n");
 >>>>>>> Stashed changes
 =======
+=======
+>>>>>>> Stashed changes
             WriteLiteral(@"
 <div class=""text-center"">
     <h1 class=""display-4"">hi</h1>
@@ -84,6 +95,9 @@ using Landlyst;
     scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book</p>
 </div>
 ");
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
         }
         #pragma warning restore 1998

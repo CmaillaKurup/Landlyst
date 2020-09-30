@@ -4,10 +4,15 @@
 <<<<<<< Updated upstream
       "/Users/caku/.dotnet/store/|arch|/|tfm|",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "C:\\Users\\andr687w\\.nuget\\packages\\"
 =======
       "C:\\Users\\andr687w\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\andr687w\\.nuget\\packages"
+>>>>>>> Stashed changes
+=======
+      "/Users/caku/.nuget/packages",
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
 >>>>>>> Stashed changes
 =======
       "/Users/caku/.nuget/packages",
