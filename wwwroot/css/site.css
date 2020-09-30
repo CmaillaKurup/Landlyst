@@ -78,7 +78,23 @@ body {
 }
 footer {
     flex-shrink: 0;
-    padding: 20px;
     background-color: darkgrey;
     color: white;
+    padding: 20px;
 }
+
+.icons {
+    text-align: right;
+    margin: 50px;
+    padding-top: 50px;
+    padding-right: 15px;
+    font-size: 40px;
+}
+footer address {
+    text-align: left;
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+
